@@ -98,7 +98,7 @@ Overall, this project enhanced both my technical skills and practical approach t
   Built with Python, Streamlit, LangChain, FAISS, and OpenAI API.
 </p>
 <p>
-  <a href="https://github.com/Lord-Rahul/web-pentesting/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Tanvi067/News-Research-Tool-Using-LLM/blob/d7e8d2f0dc840067f7024213294969ef286a7803/Sure%20Trust%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
@@ -226,12 +226,9 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/Lord-Rahul/web-pentesting/blob/main/assets/1.jpg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
-</div>
+<img src="https://github.com/Tanvi067/News-Research-Tool-Using-LLM/blob/6db598775b387693bb9aaa2328e31c2d592518c2/Tree%20plantation.jpg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/Tanvi067/News-Research-Tool-Using-LLM/blob/6db598775b387693bb9aaa2328e31c2d592518c2/Community%20Service%202.jpg" alt="Community Service Photo 2" width="30%">
 
----
 
 ## **Certificate**
 
@@ -240,7 +237,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+<img src="" alt="Internship Certificate" width="80%">
 </p>
 
 ---
