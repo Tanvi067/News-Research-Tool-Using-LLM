@@ -124,76 +124,6 @@ How to apply technical knowledge to real-world projects
 These learnings directly supported the development of my News Research Tool, where I applied logical thinking, structured problem-solving, and clear communication of outputs.
 
 
-## **Community Services**
-
-<!-- add descreption in your own words -->
-
-During my internship period, I actively participated in community-oriented activities while also working on my technical project.
-
-
-### **Activities Involved**
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
-
-### **Impact / Contribution**
-
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
----
-
-## **Community Services**
-
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
-
-### **Activities Involved**
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
-
-### **Impact / Contribution**
-
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
-
-## **Community Services**
-
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
-
-### **Activities Involved**
-
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
-
-### **Impact / Contribution**
-
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
 
 ## **Community Services**
 
@@ -220,10 +150,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Photos**
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/Tanvi067/News-Research-Tool-Using-LLM/blob/6db598775b387693bb9aaa2328e31c2d592518c2/Tree%20plantation.jpg" alt="Community Service Photo 1" width="30%">
